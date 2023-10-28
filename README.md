@@ -1,4 +1,2 @@
 # Repo1
-This is my trial repo
-<b/r>
-Author: Hemangi
+This is my trial repo <br> Author: Hemangi
