@@ -1,2 +1,2 @@
 # Repo1
-This is my trial repo <br> Author: Hemangi
+This is my first repo. <br> Author: Hemangi Sangole <br>
